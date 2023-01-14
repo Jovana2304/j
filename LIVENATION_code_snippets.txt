@@ -1,0 +1,265 @@
+[HEAD SECTION]
+==========================================================================
+<head>
+	<meta charset="utf8" />
+	<title>Livenation :: Music booking agency</title>
+	<meta name="author" content="Livenation - office@livenation.com" />
+	<meta name="description" content="Livenation is worldwide music booking agency with over 100 artists on roster." />
+	<meta name="keywords" content="livenation, booking agency, music agency, worldwide booking, music industry" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/1.1.0/modern-normalize.min.css" integrity="sha512-wpPYUAdjBVSE4KJnH1VR1HeZfpl1ub8YT/NKx4PuQ5NmX2tKuGu6U/JRp5y+Y8XG2tV+wKQpNHVUX03MfMFn9Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+[HEADER]
+==========================================================================
+<header id="main_header">
+    <img src="./images/live_nation_logo.png" alt="Livenation Logo" />
+</header>
+        
+        
+[NAVIGATION]
+==========================================================================
+<nav id="main_nav" role="main">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Artists</a>
+    <a href="#">Events</a>
+    <a href="#">Contact</a>
+</nav>
+        
+
+[ASIDE - FOLLOW ME]
+==========================================================================
+<h3 class="aside_header">Follow us</h3>
+<div id="social_media">
+	<div class="social_icon">
+	    <a href="#">
+		<i class="fab fa-facebook-f"></i>
+	    </a>
+	</div>
+	<div class="social_icon">
+	    <a href="#">
+		<i class="fas fa-rss"></i>
+	    </a>
+	</div>
+	<div class="social_icon">
+	    <a href="#">
+		<i class="fab fa-twitter"></i>
+	    </a>
+	</div>
+</div>
+
+
+[ASIDE - JOIN THE NEWSLETTER]
+==========================================================================
+<h3 class="aside_header">Join the newsletter</h3>
+<p>Sign up for our newsletter to receive the latest newsfrom our artists.</p>
+<div>
+	<form id="newsletter_form" action="#">
+		<input type="email" />
+		<button type="submit">Join</button>
+	</form>
+</div>
+
+
+[ASIDE - SPONSORS]
+==========================================================================
+ <h3 class="aside_header">Sponsors</h3>
+<div id="sponsors">
+	<div class="sponsor">
+		<img src="./images/sponsors_alibaba.png" alt="Alibaba logo" />
+	</div>
+	<div class="sponsor">
+		<img src="./images/sponsors_raiffeisen.png" alt="Raiffeisen bank logo" />
+	</div>
+	<div class="sponsor">
+		<img src="./images/sponsors_spotify.png" alt="Spotify logo" />
+	</div>
+	<div class="sponsor">
+		<img src="./images/sponsors_tmobile.png" alt="T-Mobile logo" />
+	</div>
+	<div class="sponsor">
+		<img src="./images/sponsors_zildjian.png" alt="Zildjian logo" />
+	</div>
+</div>
+
+
+[FOOTER]
+==========================================================================
+<footer>
+	<p>
+		<a href="#">Legal notice</a> |
+		<a href="#">Privacy policy</a> |
+		<a href="#">Terms of use</a>
+	</p>
+	<p> &copy; 2022 ITAkademija | Livenation</p>
+</footer>
+
+
+========================================================================
+========================================================================
+
+[INDEX - NEWS]
+========================================================================
+<section>
+	<h1 class="section_title">News</h1>
+	<article class="news">
+		<h1>the peggies holds free livestream concert “SOUNDBASE Vol.3”</h1>
+		<div>
+			<img src="./images/news_thepeggies.jpg" alt="the peggies band photo" />
+			<div><b>the peggies</b></div>
+		</div>
+		<div>
+			<p>the peggies just&nbsp;<a href="http://thepeggies.jp/news/archive/?534186" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">announced a free livestream concert</a>&nbsp;<em>SOUNDBASE Vol.3</em>&nbsp;will be held on YouTube on October 20! This commemorates the release date of their&nbsp;<a href="https://jrocknews.com/2021/10/peggies-gets-playful-dramatic-music-video.html" data-wpel-link="internal">upcoming second major album&nbsp;<em>The GARDEN</em></a>.</p>
+			<p>The event will start at 21:00 (JST) and you can already head out to the scheduled video on YouTube to set a reminder. Be sure not to miss it as the concert will not be archived.</p>
+		</div>
+	</article>
+
+	<article class="news">
+		<h1>Parkway Drive announce 2022 UK and European tour</h1>
+
+		<h2>September 2022</h2>
+		<ul>
+			<li>9 &ndash; Leipzig, Quarterback Immobilien Arena (DE)</li>
+			<li>10 &ndash; Prague, Forum Karlin (CZ)</li>
+			<li>12 &ndash; Brussels, Forest National (BE)</li>
+			<li>13 &ndash; Esch-sur-Alzette, Rockhal (LUX)</li>
+			<li>14 &ndash; Frankfurt, Festhalle (DE)</li>
+			<li>16 &ndash; Z&uuml;rich, Samsung Hall (CH)</li>
+			<li>17 &ndash; Munich, Olympiahalle (DE)</li>
+			<li>18 &ndash; Vienna, Stadthalle (AT)</li>
+			<li>20 &ndash; Berlin, Velodrom (DE)</li>
+			<li>21 &ndash; Hamburg, Barclays Arena (DE)</li>
+			<li>23 &ndash; Amsterdam, AFAS Live (NL)</li>
+			<li>24 &ndash; Dortmund, Westfalenhalle (DE)</li>
+			<li>25 &ndash; Stuttgart, Schleyerhalle (DE)</li>
+			<li>27 &ndash; Paris, Zenith (FR)</li>
+			<li>30 &ndash; London, Alexandra Palace (UK)</li>
+		</ul>
+	</article>
+</section>
+
+
+[ABOUT - ABOUT LIVENATION]
+========================================================================
+<h2>About LiveNation</h2>
+<p>LiveNation connects music to the listener and delivers an audience to the artist. Built on over 15 years of tenacity and neo-grassroots marketing, our unique company offers its clients almost every conceivable service available in the business of music.</p>
+<p>We are a worldwide organization, designed to provide on-the-ground support in countries far and wide. With a history of being at the forefront of independent thinking, our company is leading the charge of a new music model, one that places the artist at both the creative and financial center. Our team knows the value of long-term strategic planning, and puts the artist in the creative drivers seat.</p>
+<p>Founded in March 2020 by Spencer Russell as DCT Agency and later morphing in September 2020 into LiveNation, it is the umbrella company for many of our services.</p>
+<p>The company is based on a team effort ideology and keeping the artist and it’s counterpart a close knit family with an evergrowing open discussion as to what is best for the artists long term career.</p>
+
+
+[ABOUT - MANAGEMENT]
+========================================================================
+<h2>Management</h2>
+<div id="managment">
+	<div class="managment_profile">
+		<img src="./images/about_ceo.jpg" alt="Spencer Russell" />
+		<p class="managment_name">Spencer Russell</p>
+		<p class="managment_title">CEO / Founder</p>
+	</div>
+	<div class="managment_profile">
+		<img src="./images/about_cto.jpg" alt="Christina Hills" />
+		<p class="managment_name">Christina Hills</p>
+		<p class="managment_title">CTO / Advisor</p>
+	</div>
+	<div class="managment_profile">
+		<img src="./images/about_cfo.jpg" alt="Jayden Cheng" />
+		<p class="managment_name">Jayden Cheng</p>
+		<p class="managment_title">CFO / Project Coordinator</p>
+	</div>
+</div>
+
+
+[EVENTS]
+=====================================================================
+<section>
+	<h1 class="section_title">Events</h1>
+
+	<h2 class="event_artist">Parkway Drive</h2>
+	<div class="event_container">
+		<div class="event_row">
+			<div class="event_date">Jan 31, 2023</div>
+			<div class="event_location">The Wiltern</div>
+			<div class="event_country">Los Angeles, California, United States</div>
+			<div class="event_tickets">
+				<a href="#">Tickets</a>
+			</div>
+			<div class="event_rsvp">
+				<a href="#">RSVP</a>
+			</div>
+		</div>
+		<div class="event_row">
+			<div class="event_date">Feb 03, 2023</div>
+			<div class="event_location">Tech Port Arena and Center</div>
+			<div class="event_country">San Antonio, Texas, United States</div>
+			<div class="event_tickets">
+				<a href="#">Tickets</a>
+			</div>
+			<div class="event_rsvp">
+				<a href="#">RSVP</a>
+			</div>
+		</div>
+		<div class="event_row">
+			<div class="event_date">Feb 04, 2023</div>
+			<div class="event_location">House of Blues</div>
+			<div class="event_country">Houston, Texas, United States</div>
+			<div class="event_tickets">
+				<a href="#">Tickets</a>
+			</div>
+			<div class="event_rsvp">
+				<a href="#">RSVP</a>
+			</div>
+		</div>
+		<div class="event_row">
+			<div class="event_date">Feb 06, 2023</div>
+			<div class="event_location">The Pageant</div>
+			<div class="event_country">St. Louis, Missouri, United States</div>
+			<div class="event_tickets">
+				<a href="#">Tickets</a>
+			</div>
+			<div class="event_rsvp">
+				<a href="#">RSVP</a>
+			</div>
+		</div>
+	</div>
+	
+
+	<h2 class="event_artist">Ed Sheeran</h2>
+	<div class="event_container">
+		<div class="event_row">
+			<div class="event_date">Feb 17, 2023</div>
+			<div class="event_location">Suncorp Stadium</div>
+			<div class="event_country">Brisbane, Queensland, Australia</div>
+			<div class="event_tickets">
+				<a href="#">Tickets</a>
+			</div>
+			<div class="event_rsvp">
+				<a href="#">RSVP</a>
+			</div>
+		</div>
+		<div class="event_row">
+			<div class="event_date">Feb 24, 2023</div>
+			<div class="event_location">Accor Stadium</div>
+			<div class="event_country">Sydney, New South Wales, Australia</div>
+			<div class="event_tickets">
+				<a href="#">Tickets</a>
+			</div>
+			<div class="event_rsvp">
+				<a href="#">RSVP</a>
+			</div>
+		</div>
+		<div class="event_row">
+			<div class="event_date">Feb 25, 2023</div>
+			<div class="event_location">Marvel Stadium</div>
+			<div class="event_country">Docklands, Victoria, Australia</div>
+			<div class="event_tickets">
+				<a href="#">Tickets</a>
+			</div>
+			<div class="event_rsvp">
+				<a href="#">RSVP</a>
+			</div>
+		</div>
+	</div>
+</section>
